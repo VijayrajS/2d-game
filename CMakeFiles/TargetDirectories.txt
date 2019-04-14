@@ -1,0 +1,3 @@
+/home/vijayraj/Desktop/Academics/2-2/Graphics/Assignment1/CMakeFiles/rebuild_cache.dir
+/home/vijayraj/Desktop/Academics/2-2/Graphics/Assignment1/CMakeFiles/graphics_asgn1.dir
+/home/vijayraj/Desktop/Academics/2-2/Graphics/Assignment1/CMakeFiles/edit_cache.dir
